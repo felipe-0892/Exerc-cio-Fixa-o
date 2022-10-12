@@ -1,0 +1,36 @@
+QUESTÕES DO EXERCÍCIO DE FIXAÇÃO DO LIVRO FUNDAMENTOS DA PROGRAMAÇÃO DE COMPUTADORES 3° EDIÇÃO
+
+PÁGINA 148
+
+QUESTÕES 14 A 17
+
+14.Cada espectador de um cinema respondeu a um questionário no qual constava sua idade e sua opinião
+em relação ao filme: ótimo — 3; bom — 2; regular — 1. Faça um programa que receba a idade e a opi-
+nião de quinze espectadores, calcule e mostre:
+
+■■ a média das idades das pessoas que responderam ótimo;
+■■ a quantidade de pessoas que responderam regular; e
+■■ a percentagem de pessoas que responderam bom, entre todos os espectadores analisados.
+
+15. Uma empresa fez uma pesquisa de mercado para saber se as pessoas gostaram ou não de um novo pro-
+duto lançado. Para isso, forneceu o sexo do entrevistado e sua resposta (S — sim; ou N — não). Sabe-se
+
+que foram entrevistadas dez pessoas. Faça um programa que calcule e mostre:
+■■ o número de pessoas que responderam sim;
+■■ o número de pessoas que responderam não;
+■■ o número de mulheres que responderam sim; e
+■■ a percentagem de homens que responderam não, entre todos os homens analisados.
+
+16. Faça um programa que receba várias idades, calcule e mostre a média das idades digitadas. Finalize di-
+gitando idade igual a zero.
+
+17. Foi feita uma pesquisa sobre a audiência de canal de TV em várias casas de uma cidade, em determinado
+dia. Para cada casa consultada foi fornecido o número do canal (4, 5, 7, 12) e o número de pessoas que
+estavam assistindo àquele canal. Se a televisão estivesse desligada, nada era anotado, ou seja, essa casa
+não entrava na pesquisa. Faça um programa que:
+
+■■ leia um número indeterminado de dados (número do canal e número de pessoas que estavam as-
+sistindo); e
+
+■■ calcule e mostre a porcentagem de audiência de cada canal.
+Para encerrar a entrada de dados, digite o número do canal ZERO.
